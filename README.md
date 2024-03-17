@@ -1,2 +1,17 @@
 # AutoSleepoutChecker
 엑셀에서 기숙사 외박자를 자동으로 체크 및 보고내용을 클립보드에 복사
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/b81e122d-5fbe-4b5c-b1cf-e88cca22ecc0)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/c4e88730-4a39-4fe0-95e4-7ab74096ab75)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/5564fcd7-9967-4fc7-b892-03656a167106)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/fd6f6194-78ae-4075-87d1-69dc9eba41d4)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/22ba363d-10a4-4803-907b-8d19d9b8a126)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/77b5f7a2-b1c1-4f98-a662-42b09a6b5779)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/1816616a-943b-40e5-86f6-8519f9d173f7)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/52916d8f-bd98-40f5-986b-db5a122f1296)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/23ee283f-8eaf-43d5-a9e4-0623ec15dfd9)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/f6e9b7f5-889e-4292-bbc0-133377babd04)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/d7e313c1-5d4a-4020-9dbe-089dcaf792bb)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/0565686f-f372-4a10-948e-faa0323b90c1)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/6a2f197a-e5ba-4e0e-a723-56516d11b795)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/a5c240d1-fc55-424c-aca9-aa0caec179ca)
+![image](https://github.com/yoong-saks/AutoSleepoutChecker/assets/42439493/37ff9b3e-f55e-4896-b40b-6c488064d176)
